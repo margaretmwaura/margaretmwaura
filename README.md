@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 . 
+
+Maggie here. I am a software engineer 👩‍💻 based in Kenya. 
+I work with Vuejs and Laravel for web applications and Kotlin/Java for mobile applications.
+
+
 
 <!--
 **margaretmwaura/margaretmwaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
