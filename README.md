@@ -1,8 +1,10 @@
 ### Hi there 👋 . 
 
-- Maggie here. I am a software engineer 👩‍💻 based in Kenya. 
-- I work with Vuejs and Laravel for web applications and Kotlin/Java for mobile applications.
+Maggie here. I am a software engineer 👩‍💻 based in Kenya. 
 
+I work with Vuejs and Laravel for web applications and Kotlin/Java for mobile applications.
+
+I am open to collaborations. 
 
 
 <!--
