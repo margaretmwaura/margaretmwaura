@@ -2,7 +2,7 @@
 
 Maggie here. I am a software engineer 👩‍💻 based in Kenya. 
 
-I work with Vuejs and Laravel for web applications and React Native for mobile applications.
+I work with Vuejs , Nodejs, GraphQL for web application.
 
 I am open to collaborations. 
 
